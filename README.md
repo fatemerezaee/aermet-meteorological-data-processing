@@ -1,3 +1,10 @@
+Hi Everyone
+
+I’m Fateme, an environmental specialist passionate about air quality modeling.  
+While working on atmospheric dispersion modeling with AERMET, I faced challenges processing raw meteorological data to meet input requirements.  
+To solve this, I developed the scripts below to clean, organize, and prepare the data — filling gaps, aligning timestamps, and converting intervals to hourly records.  
+I’m sharing this in case it helps others working on similar projects...
+
 # aermet-meteorological-data-processing
 
 This repository contains a collection of Python scripts designed to preprocess meteorological data for use in AERMET, a meteorological preprocessor for the AERMOD air dispersion modeling system. The scripts handle various data preparation tasks, including cleaning, filling missing values, and aligning timestamps to ensure the data meets the requirements for air quality modeling.
